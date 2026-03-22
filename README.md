@@ -1,7 +1,5 @@
 # A6: Naive RAG vs Contextual Retrieval
 
-**Student ID**: 125998 | **Chapter**: 8 — Transformers (`transformer_jan26.pdf`)
-
 ## Overview
 
 This project builds a domain-specific QA system for Chapter 8 of the NLP textbook and compares two retrieval strategies: Naive RAG and Contextual Retrieval. It uses BAAI/bge-small-en-v1.5 for embeddings and Groq-hosted Llama models for both chunk enrichment and answer generation.
