@@ -1,5 +1,5 @@
 # A6: Naive RAG vs Contextual Retrieval
-
+![RAG vs Contextual RAG](https://drive.google.com/uc?export=view&id=13qL12xhGZGipOf0e5_ctNq0SZ3MpdB5w)
 ## Overview
 
 This project builds a domain-specific QA system for Chapter 8 of the NLP textbook and compares two retrieval strategies: Naive RAG and Contextual Retrieval. It uses BAAI/bge-small-en-v1.5 for embeddings and Groq-hosted Llama models for both chunk enrichment and answer generation.
